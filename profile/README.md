@@ -1,4 +1,4 @@
-![jsdelivr-github-cover-main](https://user-images.githubusercontent.com/1834071/135148159-5a15ea5b-97b5-4a24-9b4f-c0f9832ff084.jpg)
+![jsdelivr-github-cover-main-2](https://user-images.githubusercontent.com/1834071/135251047-3193cede-1982-4429-a944-d4ecb73cab20.jpg)
 
 
 ## jsDelivr is a Global CDN for Javascript and ES Modules
