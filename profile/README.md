@@ -5,4 +5,4 @@
 
 We build tools to help open source developers!
 
-Explore our repos bellow:
+Explore our repos below:
