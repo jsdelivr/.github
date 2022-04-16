@@ -5,11 +5,11 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg" width="30%">
 </p>
-We build tools to help open source developers! 
+We build tools to help open source developers!
 
 Check our main projects:
 
-* **🌎 [jsDelivr Global CDN](https://github.com/jsdelivr/jsdelivr)** - Learn more about how our CDN works and how to enable advanced functionality like minification, ES modules, version aliasing and more.
+* **🌎 [jsDelivr Global CDN](https://github.com/jsdelivr/jsdelivr)** - Learn more about how our CDN works and how to enable advanced functionality like minification, ES modules, version aliasing and more. Our CDN serves more than 160 billion requests per month!
 * **🔍 [API for jsDelivr, NPM and GitHub](https://github.com/jsdelivr/data.jsdelivr.com)** - Use our unique API that will allow you to better interact with any NPM and GitHub project out there. Get entrypoints, versions, CDN URLs and detailed download stats per file and version.
 
 IDE integrations:
@@ -27,7 +27,7 @@ Globalping is a platform that allows anyone to run networking commands such as p
 
 Start running global network tests:
 
-* **🌐 [Globalping API](https://github.com/jsdelivr/globalping)** - The main API that allows you to build your own tools and web services that interact hundreds of globally distributed probes
+* **🌐 [Globalping API](https://github.com/jsdelivr/globalping)** - The main API that allows you to build your own tools and web services that interact hundreds of globally distributed probes. Vist the repo for a detailed list of tools you can use to interact with the service. 
 * **💻 [Globalping Probe](https://github.com/jsdelivr/globalping-probe)** - Run the probe to become part of the community and help us make the internet faster for all people regardless of their location
-* **⚙️ [Globalping CLI](https://github.com/jsdelivr/globalping-cli)** - A quick and simple way to start running network tests from the command line with a familiar interface `globalping traceroute jsdelivr.com --from "Western Europe" --limit 50`.
+* **⚙️ [Globalping CLI](https://github.com/jsdelivr/globalping-cli)** - A quick and simple way to start running network tests from the command line with a simple human friendly interface
 * **:octocat: [GitHub Bot](https://github.com/globalping)** - A bot you can call by simply mentioning it in any public GitHub issue. Ask it questions `@globalping help` and run commands `@globalping traceroute jsdelivr.com from Europe`
