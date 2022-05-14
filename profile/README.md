@@ -5,7 +5,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg" width="30%">
 </p>
-We build tools to help open source developers!
+
+We build tools to help open source developers! [Start using the CDN now!](https://www.jsdelivr.com)
 
 Check our main projects:
 
@@ -23,7 +24,7 @@ IDE integrations:
 <img src="https://user-images.githubusercontent.com/1834071/163672740-2aea7866-a759-46a3-8d19-b1ed8db1be31.svg" width="30%">
 </p>
 
-Globalping is a platform that allows anyone to run networking commands such as ping, traceroute, dig and mtr on distributed probes all around the world. 
+Globalping is a platform that allows anyone to run networking commands such as ping, traceroute, dig and mtr on distributed probes all around the world. [Run your first tests now!](https://www.jsdelivr.com/globalping)
 
 Start running global network tests:
 
