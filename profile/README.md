@@ -30,6 +30,7 @@ Start running global network tests:
 * **🌐 [Globalping API](https://github.com/jsdelivr/globalping)** - The main API that allows you to build your own tools and web services that interact hundreds of globally distributed probes. Vist the repo for a detailed list of tools you can use to interact with the service. 
 * **💻 [Globalping Probe](https://github.com/jsdelivr/globalping-probe)** - Run the probe to become part of the community and help us make the internet faster for all people regardless of their location.
 * **⚙️ [Globalping CLI](https://github.com/jsdelivr/globalping-cli)** - A quick and simple way to start running network tests from the command line with a simple human friendly interface
+* **💬 [Slack App](https://bots.globalping.io/slack/install)** - Allow all of your users to run network tests directly in Slack, discuss the results and quickly debug issues. Great fit for NOC, OPS and Support teams.
 * **:octocat: [GitHub Bot](https://github.com/globalping)** - A bot you can call by simply mentioning it in any public GitHub issue. Ask it questions `@globalping help` and run commands `@globalping traceroute jsdelivr.com from Europe`.
 
 
