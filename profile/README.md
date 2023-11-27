@@ -23,15 +23,15 @@ Integrations:
 <img src="https://user-images.githubusercontent.com/1834071/163672740-2aea7866-a759-46a3-8d19-b1ed8db1be31.svg" width="30%">
 </p>
 
-Globalping is a platform that allows anyone to run networking commands such as ping, traceroute, dig and mtr on distributed probes all around the world. [Run your first tests now!](https://www.jsdelivr.com/globalping)
+The Globalping platform allows anyone to run networking commands such as ping, traceroute, dig, and mtr on distributed probes all around the world. [Run your first tests now!](https://www.jsdelivr.com/globalping)
 
 Start running global network tests:
 
-* **🌐 [Globalping API](https://github.com/jsdelivr/globalping)** - The main API that allows you to build your own tools and web services that interact hundreds of globally distributed probes. Vist the repo for a detailed list of tools you can use to interact with the service. 
-* **💻 [Globalping Probe](https://github.com/jsdelivr/globalping-probe)** - Run the probe to become part of the community and help us make the internet faster for all people regardless of their location.
-* **⚙️ [Globalping CLI](https://github.com/jsdelivr/globalping-cli)** - A quick and simple way to start running network tests from the command line with a simple human friendly interface
-* **💬 [Slack App](https://bots.globalping.io/slack/install)** - Allow all of your users to run network tests directly in Slack, discuss the results and quickly debug issues. Great fit for NOC, OPS and Support teams.
-* **:octocat: [GitHub Bot](https://github.com/globalping)** - A bot you can call by simply mentioning it in any public GitHub issue. Ask it questions `@globalping help` and run commands `@globalping traceroute jsdelivr.com from Europe`.
+* **🌐 [Globalping API](https://github.com/jsdelivr/globalping)** - The main API allows you to build tools and web services that interact with hundreds of globally distributed probes. Visit the repo to find out more about the service and the various tools for interacting with it. 
+* **💻 [Globalping Probe](https://github.com/jsdelivr/globalping-probe)** - Run a probe and become part of the Globalping community! Help us make the internet faster for everyone, regardless of their location.
+* **⚙️ [Globalping CLI](https://github.com/jsdelivr/globalping-cli)** - A quick and convenient way to run network tests from the command line with a simple, human-friendly interface.
+* **💬 [Slack App](https://bots.globalping.io/slack/install)** - Run network tests directly in Slack, discuss the results, and debug issues on the spot with others. Ideal for NOC, OPS, and Support teams.
+* **:octocat: [GitHub Bot](https://github.com/globalping)** - Leverage Globalping in any public GitHub issue by mentioning the bot. Ask for help with `@globalping help` and run commands like `@globalping traceroute jsdelivr.com from Europe`.
 
 
 ## Community
